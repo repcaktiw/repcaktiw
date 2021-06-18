@@ -24,8 +24,13 @@ I'm from Poland. I live in Poznań and currently I'm treating coding as a hobby.
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />  
-<img align="left" alt="Linux" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="Git" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" />  
+<img align="left" alt="Manjaro" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/manjaro.svg" />
+<br />
+
+### 💬 I'm also at
+[<img align="left" alt="CodePen" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codepen.svg" />](https://codepen.io/)
+[<img align="left" alt="Codewars" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codewars.svg" />](https://www.codewars.com)
 
 <!---
 repcaktiw/repcaktiw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
