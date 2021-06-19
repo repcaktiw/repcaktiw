@@ -1,8 +1,8 @@
-# Hi, I’m repcaktiw 👋 
+# Hi, I am repcaktiw 👋 
 
-I'm just starting my coding journey. I'm from Poland. I live in Poznań and currently I'm treating coding as a hobby. I'm mostly interested in web development so I’m trying to get everything connected with this topic right now. Currently I’m working on my core skiils, so I'm mainy focused on vanilla JavaScript. In near future I'd like to jump into frontend frameworks.
+I'm just starting my coding journey. I'm from Poland and I live in Poznań. I'm treating coding as a hobby right now, and I'm trying to learn as much as I can. I'm mostly interested in web development so I’m trying to get everything connected with this topic right now. Currently I'm mainly focusing on vanilla JavaScript. That will give me good foundation for both frontend and backend development. While I'm polishing my skills right now, I'm also thinking about personal development. In near future I'd like to jump into frontend frameworks (React I suppose) but I'm also thinking about trying get into backend with node.js and express.
 
-### 🔭 I'am Currently Focusing on
+### 🔭 I am Currently Focusing on
 
 - Practicins JavaScript (my main focus)
 - Working with CSS Frameworks
@@ -28,7 +28,7 @@ I'm just starting my coding journey. I'm from Poland. I live in Poznań and curr
 <img align="left" alt="Manjaro" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/manjaro.svg" />
 <br />
 
-### 💬 I'm also at
+### 💬 I am also at
 [<img align="left" alt="CodePen" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codepen.svg" />](https://codepen.io/)
 [<img align="left" alt="Codewars" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codewars.svg" />](https://www.codewars.com)
 
