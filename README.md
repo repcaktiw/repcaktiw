@@ -1,6 +1,6 @@
 # Hi, I am repcaktiw 👋 
 
-I'm just starting my coding journey. I'm from Poland and I live in Poznań. I'm treating coding as a hobby right now, and I'm trying to learn as much as I can. I'm mostly interested in web development so I’m trying to get everything connected with this topic right now. Currently I'm mainly focusing on vanilla JavaScript. That will give me good foundation for both frontend and backend development. While I'm polishing my skills right now, I'm also thinking about personal development. In near future I'd like to jump into frontend frameworks (React I suppose) but I'm also thinking about trying get into backend with node.js and express.
+I'm just starting my coding journey. I'm from Poland and I live in Poznań. I'm treating coding as a hobby right now, and I'm trying to learn as much as I can. I'm mostly interested in web development so I’m trying to get everything connected with this topic right now. Currently I'm mainly focusing on vanilla JavaScript. That will give me good foundation for both frontend and backend development frameworks. In near future I'd like to jump into frontend frameworks (React I suppose) but I'm also interested into geting basic skills of backend developmnet with node.js and express.
 
 ### 🔭 I am Currently Focusing on
 
