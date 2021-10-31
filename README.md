@@ -13,7 +13,7 @@ I'm just starting my coding journey. I'm from Poland and I live in Poznań. I'm 
 
 - Learning advanced CSS and SASS
 - Learning one of the frontend frameworks
-- Learning Node.js and Express basics
+- Learning Node.js and one of the frameworks basics
 - Creating interesting and fun projects to polish my skills
 - Be productiove, don't get stuck, have motivation and fun with coding
 
