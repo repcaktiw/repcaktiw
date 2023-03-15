@@ -27,13 +27,14 @@ I'm just starting my coding journey. I'm from Poland and I live in Poznań. I'm 
 [![VScode shield](https://img.shields.io/badge/-VScode-007ACC?style=for-the-badge&labelColor=black&logo=VisualStudioCode&logoColor=007ACC)](#)
 [![GIT shield](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![npm shield](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&labelColor=black&logo=npm&logoColor=CB3837)](#)
-[![Manjaro shield](https://img.shields.io/badge/-Manjaro-35BF5C?style=for-the-badge&labelColor=black&logo=Manjaro&logoColor=35BF5C)](#)
+[![Fedora shield](https://img.shields.io/badge/-Fedora-0B57A4?style=for-the-badge&labelColor=black&logo=Fedora&logoColor=0B57A4)](#)
 <br />
 
 ### 💬 Find me at
 [![Codepen shield](https://img.shields.io/badge/-CodePen-fff?style=for-the-badge&labelColor=black&logo=CodePen&logoColor=fff)](https://codepen.io/)
 [![Codewars shield](https://img.shields.io/badge/-codewars-B1361E?style=for-the-badge&labelColor=black&logo=codewars&logoColor=B1361E)](https://www.codewars.com)
 <br />
+
 
 <!---
 repcaktiw/repcaktiw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
