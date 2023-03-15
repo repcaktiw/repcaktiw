@@ -4,7 +4,7 @@ I'm just starting my coding journey. I'm from Poland and I live in Poznań. I'm 
 
 ### 🔭 I am Currently Focusing on
 
-- Practicins JavaScript (my main focus)
+- Practicing JavaScript (my main focus)
 - Working with CSS Frameworks
 - Practicing HTML and CSS skills
 - Learning how to become better programmer
