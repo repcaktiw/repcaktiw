@@ -1,6 +1,6 @@
 # Hi, I am repcaktiw 👋 
 
-I'm just starting my coding journey. I'm from Poland and I live in Poznań. I'm treating coding as a hobby, and I'm trying to learn as much as I can. I'm mostly interested in tasks autimatization and web development so I’m trying to get everything connected with this topics right now. Currently I'm mainly focusing on Python and JavaScript. Currently my main focus is leraning Python. I am trying to write code that helps me with my tasks and daily routines. In near future I'd like to jump into backend frameworks (node.js, express I suppose) but I'm also interested into geting basic skills of frontend developmnet.
+I'm just starting my coding journey. I'm from Poland and I live in Poznań. I'm treating coding as a hobby, and I'm trying to learn as much as I can. I'm mostly interested in tasks autimatization and web development so I’m trying to get everything connected with this topics right now. Currently my main focus is Python. I am trying to write code that helps me with my tasks and daily routines. In near future I'd like to jump into backend frameworks (node.js, express I suppose) but I'm also interested into geting basic skills of frontend developmnet.
 
 ### 🔭 I am Currently Focusing on
 
