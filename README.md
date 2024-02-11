@@ -1,19 +1,19 @@
 # Hi, I am repcaktiw 👋 
 
-I'm just starting my coding journey. I'm from Poland and I live in Poznań. I'm treating coding as a hobby right now, and I'm trying to learn as much as I can. I'm mostly interested in web development so I’m trying to get everything connected with this topic right now. Currently I'm mainly focusing on vanilla JavaScript. That will give me good foundation for both frontend and backend development frameworks. In near future I'd like to jump into frontend frameworks (React I suppose) but I'm also interested into geting basic skills of backend developmnet with node.js and express.
+I'm just starting my coding journey. I'm from Poland and I live in Poznań. I'm treating coding as a hobby, and I'm trying to learn as much as I can. I'm mostly interested in tasks autimatization and web development so I’m trying to get everything connected with this topics right now. Currently I'm mainly focusing on Python and JavaScript. Currently my main focus is leraning Python. I am trying to write code that helps me with my tasks and daily routines. In near future I'd like to jump into backend frameworks (node.js, express I suppose) but I'm also interested into geting basic skills of frontend developmnet.
 
 ### 🔭 I am Currently Focusing on
 
-- Practicing JavaScript (my main focus)
-- Working with CSS Frameworks
+- Python
+- JavaScript
 - Practicing HTML and CSS skills
 - Learning how to become better programmer
 
 ### 🌱 Future goals
 
-- Learning advanced CSS and SASS
+- Learning Node.js and one of the frameworks
 - Learning one of the frontend frameworks
-- Learning Node.js and one of the frameworks basics
+- Learning advanced CSS and SASS
 - Creating interesting and fun projects to polish my skills
 - Be productiove, don't get stuck, have motivation and fun with coding
 
@@ -23,6 +23,7 @@ I'm just starting my coding journey. I'm from Poland and I live in Poznań. I'm 
 [![CSS shield](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
 [![JS shield](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=JavaScript&logoColor=F7DF1E)](#)
 [![Bootstrap shield](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=7952B3)](#)
+[![Python shield](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
 <br />
 [![VScode shield](https://img.shields.io/badge/-VScode-007ACC?style=for-the-badge&labelColor=black&logo=VisualStudioCode&logoColor=007ACC)](#)
 [![GIT shield](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
