@@ -5,7 +5,7 @@ I'm just starting my coding journey. I'm from Poland and I live in Poznań. I'm 
 ### 🔭 I am Currently Focusing on
 
 - Learning Python
-- Trying to write scripts to improve and automate my daily tasks
+- Trying to write scripts that improve and automate my daily tasks
 - Learning how to become better programmer
 
 ### 🌱 Future goals
